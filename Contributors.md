@@ -25,6 +25,7 @@
 - [Nathn-G](https://github.com/Nathn-G)
 - [jamesmontis](https://github.com/jamesmontis)
 - [bandarr](https://github.com/bandarr)
+- [chinmay]
 - [Shoon Lai Oo] (https://github.com/shoonlai14)
 - [YeMoeAung] (https://github.com/Ye-Moe-Aung)
 - [PurpleFlip](https://github.com/PurpleFlip)
